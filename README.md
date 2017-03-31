@@ -1,5 +1,6 @@
 # minibiografia2017dw
 Minha Minibiografia 2017 - Para trabalho de Desenvolvimento Web
+<<<<<<< HEAD
 
 ## lab-dw-2017-1
 Laboratório de Desenvolvimento de Software para a Web de 2017/1.
@@ -30,3 +31,5 @@ Para que não seja necessário instalar e configurar o Maven, ele foi embutido n
 * Documentar instalação do Git no Linux.
 * Documentar instalação do Java no Windows.
 * Documentar instalação do Java no Linux.
+=======
+>>>>>>> origin/master
