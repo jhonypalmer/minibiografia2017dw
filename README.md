@@ -1,4 +1,7 @@
-# lab-dw-2017-1
+# minibiografia2017dw
+Minha Minibiografia 2017 - Para trabalho de Desenvolvimento Web
+
+## lab-dw-2017-1
 Laboratório de Desenvolvimento de Software para a Web de 2017/1.
 
 ## Obtendo o projeto
